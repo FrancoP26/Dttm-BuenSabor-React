@@ -1,0 +1,30 @@
+footer{
+   /* margin-top: 5 em;*/
+    background-color: #FDC95A;
+    padding: 1em;
+  }
+
+  
+  .red-social{
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 2.25em;
+      width: 2.25em;
+      background-color: #fff;
+      border-radius: 0.5em;
+  }
+  
+  .whatsapp{
+    margin-right: 1em;
+  }
+  
+  .whatsapp i{
+    font-size: 1.688em;
+      color:#8D8BA7;
+  }
+  
+  .instagram i{
+    font-size: 1.688em;
+      color:#8D8BA7;
+  }

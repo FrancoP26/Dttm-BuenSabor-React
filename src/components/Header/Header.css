@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color:#FDC95A;
+    border-bottom: 0.063em solid black;
+    position: sticky;
+    top: 0;
+}
+
+/*.navbar{
+    background-color: #FDC95A;
+}*/
+
+#logo{
+    height: 75%; 
+    width: 75%;
+}
